@@ -5384,7 +5384,7 @@ li {
 	width: 100%;
 	display: block;
 	padding: 5px 0px;
-	background-color: #eefdff;
+	/* background-color: #eefdff; */
 }
 
 .brand_wrap a {
