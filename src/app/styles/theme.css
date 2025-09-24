@@ -519,7 +519,7 @@ a {
 }
 
 .fot_add1 h4 {
-	color: var(--secondary-color);
+	color: var(--third-color);
 	font-size: 18px;
 }
 
@@ -528,7 +528,7 @@ a {
 }
 
 .menu_footer ul li a:hover {
-	color: var(--primary-color) !important;
+	color: var(--third-color) !important;
 }
 
 .menu_footer2 h4 {
