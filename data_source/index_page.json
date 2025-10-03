@@ -130,19 +130,19 @@
     "venue_images": {
         "17": {
             "image": "images/g1.webp",
-            "alt_text": "Charles Bridge"
+            "alt_text": "Petrin Hill"
         },
         "18": {
             "image": "images/g2.webp",
-            "alt_text": "Jewish Quarter"
+            "alt_text": "Prague Castle"
         },
         "19": {
             "image": "images/g3.webp",
-            "alt_text": "Old Town Square"
+            "alt_text": "St. Vitus Cathedral"
         },
         "20": {
             "image": "images/g4.webp",
-            "alt_text": "Dancing House"
+            "alt_text": "Vyšehrad Fortress"
         }
     }
 }

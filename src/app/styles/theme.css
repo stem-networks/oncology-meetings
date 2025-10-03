@@ -760,7 +760,7 @@ a {
 
 	.main-menu .navbar-header .navbar-toggle {
 		background: var(--primary-color);
-		margin-top: 8px !important;
+		margin-top: 3px !important;
 	}
 
 	.main-menu .navbar-header .navbar-toggle .icon-bar {
