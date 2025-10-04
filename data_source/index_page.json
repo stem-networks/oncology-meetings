@@ -7,7 +7,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Cancer Global Summit. Timely registration and submissions will ensure you make the most of this premier event.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Global Oncology & Cancer Therapeutics Conference. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important Dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -58,11 +58,11 @@
             "banner_conent_id": "12",
             "image": "images/banner.jpg",
             "headding": "From Research to Recovery: Shaping a Bright Future in Cancer and Oncology",
-            "tag_line": "Cancer & Oncology-CGS July 23-24, 2026 in Prague, Czech Republic",
+            "tag_line": "Oncology & Cancer Therapeutics-CGS July 23-24, 2026 in Prague, Czech Republic",
             "content": "Join the Cancer and Oncology Conference 2026 for a chance to discuss cancer biology, precision medicine, immuno-oncology, early detection, and patient-centered care. Share insights with professionals, learn more, and be part of the future of cancer research and treatment. Download the brochure for detailed sessions and speaker highlights!",
             "page": "index",
             "status": "1",
-            "cid": "11"
+            "cid": "10061"
         }
     },
     "sessions": [

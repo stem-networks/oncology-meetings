@@ -1,8 +1,8 @@
 {
   "data": {
-    "cid": "11",
-    "site_url": "https://cancer-meetings.com",
-    "clname": "Cancer Global Summit",
+    "cid": "10061",
+    "site_url": "https://oncology-meetings.com",
+    "clname": "Global Oncology & Cancer Therapeutics Conference",
     "csname": "CGS",
     "clogotext": "CGS-2026",
     "sdate": "23",
@@ -16,15 +16,15 @@
     "v1": "Prague",
     "v2": "Czech Republic",
     "venue_p2": "",
-    "cemail": "cancer.cgs@stemnetwork.net",
+    "cemail": "oncology.cgs@stemnetwork.net",
     "phone": "+1 (872) 2138-777",
     "whatsapp": "+41 77 414 46 91",
     "full_length_dates": "July 23-24, 2026",
     "full_length_venue": "Hybrid Event ",
     "startDate": "2026-07-23",
     "endDate": "2026-07-24",
-    "main_keyword": "Cancer & Oncology",
-    "confkeyword": "Cancer & Oncology"
+    "main_keyword": "Oncology & Cancer Therapeutics",
+    "confkeyword": "Oncology & Cancer Therapeutics"
   },
   "status": "200",
   "pages": {
@@ -86,9 +86,9 @@
     ],
     "terms": [
       {
-        "title": "Terms of Use | Cancer Global Summit – 2026 (CGS-2026) | Prague, Czech Republic",
-        "content": "Read the Terms of Use for the Cancer Global Summit – 2026 (CGS-2026), taking place on July 23–24, 2026 in Prague, Czech Republic. Go through participant guidelines, responsibilities, and policies before joining.",
-        "meta_keywords": "Terms of Use, Cancer Global Summit 2026, CGS-2026, Oncology Conference Prague, Cancer Conference 2026, Medical Conference Terms, Registration Policy, Participant Guidelines, Prague Conference 2026"
+        "title": "Terms of Use | Global Oncology & Cancer Therapeutics Conference – 2026 (CGS-2026) | Prague, Czech Republic",
+        "content": "Read the Terms of Use for the Global Oncology & Cancer Therapeutics Conference – 2026 (CGS-2026), taking place on July 23–24, 2026 in Prague, Czech Republic. Go through participant guidelines, responsibilities, and policies before joining.",
+        "meta_keywords": "Terms of Use, Global Oncology & Cancer Therapeutics Conference 2026, CGS-2026, Oncology Conference Prague, Cancer Conference 2026, Medical Conference Terms, Registration Policy, Participant Guidelines, Prague Conference 2026"
       }
     ],
     "scientific_program": [
@@ -145,15 +145,15 @@
   "social_links": {
     "facebook": {
       "link": "https://www.facebook.com/profile.php?id=61563649766977",
-      "title": "Cancer Global Summit 2026 facebook"
+      "title": "Global Oncology & Cancer Therapeutics Conference 2026 facebook"
     },
     "linkedin": {
       "link": "https://linkedin.com/company/stem-network-com",
-      "title": "Cancer Global Summit 2026 linkedin"
+      "title": "Global Oncology & Cancer Therapeutics Conference 2026 linkedin"
     },
     "instagram": {
       "link": "https://www.instagram.com/stemnetwork_com",
-      "title": "Cancer Global Summit 2026 instagram"
+      "title": "Global Oncology & Cancer Therapeutics Conference 2026 instagram"
     }
   }
 }
