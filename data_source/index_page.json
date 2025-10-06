@@ -7,7 +7,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Global Oncology & Cancer Therapeutics Conference. Timely registration and submissions will ensure you make the most of this premier event.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming CGS 2026. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important Dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -17,22 +17,22 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Gain hands-on experience, establish connections with top researchers and industry professionals, and gain skills in an interactive scientific community. It is a great opportunity to be part of an international conference, establish your professional network, and participate in cutting-edge debate in oncology and cancer.",
+            "content": "Join <b>CGS 2026</b> as a volunteer and experience the conference from the inside. Assist in sessions, support speakers and delegates, and engage with leading oncology experts while contributing to an event that fosters innovation, collaboration, and breakthroughs in cancer treatment.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit your oncology research to COC 2026 for oral or poster presentations, and showcase your work on a global platform. Join researchers and healthcare professionals worldwide in exchanging knowledge and advancing cancer care.",
+            "content": "We invite researchers and healthcare professionals to submit abstract for oral or poster presentations. Share your latest work in cancer biology, diagnostics, therapeutics, or patient care, and join the global effort to advance oncology and improve lives.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Our Cancer and Oncology conference unites specialists to deliver seminal research, novel methodologies, and the most recent findings in cancer and oncology. Network with industry pioneers, delve into latest developments, and learn pertinent insights defining the future of the discipline.",
+            "content": "CGS 2026 covers a wide range of topics in oncology and cancer therapeutics, including tumor biology, immuno-oncology, genomics, early detection, precision medicine, novel drug delivery, AI in oncology, and more. Sessions are designed to inspire collaboration, spark innovation, and highlight breakthroughs in both research and clinical practice.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to the Cancer and Oncology Conference 2026, where global researchers, clinicians, and academics meet to share advances in cancer biology, precision medicine, diagnostics, therapies, and global solutions for patient care.",
+            "content": "Welcome to the Global Oncology & Cancer Therapeutics Conference 2026, uniting researchers, clinicians, and industry leaders to share innovations in cancer biology, diagnostics, therapeutics, and patient care for advancing global oncology.",
             "headding": "Footer Content"
         },
         "offers_content": {
@@ -57,9 +57,9 @@
         "12": {
             "banner_conent_id": "12",
             "image": "images/banner.jpg",
-            "headding": "From Research to Recovery: Shaping a Bright Future in Cancer and Oncology",
-            "tag_line": "Oncology & Cancer Therapeutics-CGS July 23-24, 2026 in Prague, Czech Republic",
-            "content": "Join the Cancer and Oncology Conference 2026 for a chance to discuss cancer biology, precision medicine, immuno-oncology, early detection, and patient-centered care. Share insights with professionals, learn more, and be part of the future of cancer research and treatment. Download the brochure for detailed sessions and speaker highlights!",
+            "headding": "From Discovery to Cure: Advancing Oncology Globally",
+            "tag_line": "Oncology & Cancer Therapeutics-CGS July 23-24, 2026 in Czech Republic",
+            "content": "Discover the full details of <b>CGS 2026</b>, including the schedule, keynote speakers, sessions, and delegate information. The brochure is your guide to planning participation, exploring cutting-edge research, and connecting with global oncology experts.",
             "page": "index",
             "status": "1",
             "cid": "10061"
@@ -67,34 +67,34 @@
     },
     "sessions": [
         {
-            "text": "1. Cancer Biology and Genetics",
-            "link": "cancer-biology-and-genetics",
-            "session_short_name": "Cancer Biology and Genetics"
+            "text": "1. Tumor Biology and Microenvironment",
+            "link": "tumor-biology-and-microenvironment",
+            "session_short_name": "Tumor Biology and Microenvironment"
         },
         {
-            "text": "2. Cancer Diagnosis and Early Detection",
-            "link": "cancer-diagnosis-and-early-detection",
-            "session_short_name": "Cancer Diagnosis and Early Detection"
+            "text": "2. Cancer Genomics and Molecular Pathways",
+            "link": "cancer-genomics-and-molecular-pathways",
+            "session_short_name": "Cancer Genomics and Molecular Pathways"
         },
         {
-            "text": "3. Precision Medicine in Oncology",
-            "link": "precision-medicine-in-oncology",
-            "session_short_name": "Precision Medicine in Oncology"
+            "text": "3. Immuno-Oncology and Precision Therapies",
+            "link": "immuno-oncology-and-precision-therapies",
+            "session_short_name": "Immuno-Oncology and Precision Therapies"
         },
         {
-            "text": "4. Immuno-Oncology and Cancer Immunotherapy",
-            "link": "immuno-oncology-and-cancer-immunotherapy",
-            "session_short_name": "Immuno-Oncology and Cancer Immunotherapy"
+            "text": "4. Early Detection, Screening, and Biomarker Development",
+            "link": "early-detection-screening-and-biomarker-development",
+            "session_short_name": "Early Detection, Screening, and Biomarker Development"
         },
         {
-            "text": "5. Targeted Therapies and Clinical Trials",
-            "link": "targeted-therapies-and-clinical-trials",
-            "session_short_name": "Targeted Therapies and Clinical Trials"
+            "text": "5. Metastasis and Resistance Mechanisms",
+            "link": "metastasis-and-resistance-mechanisms",
+            "session_short_name": "Metastasis and Resistance Mechanisms"
         },
         {
-            "text": "6. Radiation and Surgical Oncology",
-            "link": "radiation-and-surgical-oncology",
-            "session_short_name": "Radiation and Surgical Oncology"
+            "text": "6. AI and Digital Health in Oncology",
+            "link": "ai-and-digital-health-in-oncology",
+            "session_short_name": "AI and Digital Health in Oncology"
         },
         {
             "text": "7. Pediatric and Rare Cancers",
@@ -102,19 +102,20 @@
             "session_short_name": "Pediatric and Rare Cancers"
         },
         {
-            "text": "8. Cancer Prevention and Public Health",
-            "link": "cancer-prevention-and-public-health",
-            "session_short_name": "Cancer Prevention and Public Health"
+            "text": "8. Cancer Prevention and Lifestyle Factors",
+            "link": "cancer-prevention-and-lifestyle-factors",
+            "session_short_name": "Cancer Prevention and Lifestyle Factors"
+        },
+        
+        {
+            "text": "9. Novel Drug Delivery Systems and Nanotechnology",
+            "link": "novel-drug-delivery-systems-and-nanotechnology",
+            "session_short_name": "Novel Drug Delivery Systems and Nanotechnology"
         },
         {
-            "text": "9. Survivorship and Quality of Life",
-            "link": "survivorship-and-quality-of-life",
-            "session_short_name": "Survivorship and Quality of Life"
-        },
-        {
-            "text": "10. Global Oncology and Healthcare Systems",
-            "link": "global-oncology-and-healthcare-systems",
-            "session_short_name": "Global Oncology and Healthcare Systems"
+            "text": "10. Translational and Clinical Research",
+            "link": "translational-and-clinical-research",
+            "session_short_name": "Translational and Clinical Research"
         }
     ],
     "important_dates": [
@@ -130,19 +131,19 @@
     "venue_images": {
         "17": {
             "image": "images/g1.webp",
-            "alt_text": "Petrin Hill"
+            "alt_text": "Old Town Square"
         },
         "18": {
             "image": "images/g2.webp",
-            "alt_text": "Prague Castle"
+            "alt_text": "Vyšehrad Fortress"
         },
         "19": {
             "image": "images/g3.webp",
-            "alt_text": "St. Vitus Cathedral"
+            "alt_text": "Charles Bridge"
         },
         "20": {
             "image": "images/g4.webp",
-            "alt_text": "Vyšehrad Fortress"
+            "alt_text": "Dancing House"
         }
     }
 }
