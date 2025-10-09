@@ -118,12 +118,23 @@
         "content": "Read the privacy policy of CGS 2026, detailing how personal information is collected, used, and protected for participants of the Global Oncology & Cancer Therapeutics Conference.",
         "meta_keywords": "CGS 2026 privacy policy, Oncology Conference data protection, Participant information policy, Conference personal data 2026, Privacy guidelines CGS 2026, Data security oncology event, GDPR compliance 2026, Confidentiality policy Cancer Conference, Scientific event privacy, CGS 2026 data protection"
       }
+    ],
+    "previous_conference": [
+      {
+        "title": "Previous Global Oncology & Cancer Therapeutics Conferences | CGS 2026, Prague",
+        "content": "Discover the highlights of our past Global Oncology & Cancer Therapeutics Conference events, which took place on July 23–24, 2026, in Prague, Czech Republic. The conferences highlighted cutting-edge research in oncology, cancer therapeutics, clinical trials, molecular biology, immunotherapy, and precision medicine.",
+        "meta_keywords": "Global Oncology Conference, Cancer Therapeutics Conference, CGS 2026, Prague cancer conference, oncology research, cancer therapeutics, clinical trials, immunotherapy, molecular biology, precision medicine, cancer treatment innovations"
+      }
     ]
   },
   "display_features": [
     {
       "title": "Sessions",
       "link": "/sessions"
+    },
+    {
+      "title": "Previous Conference",
+      "link": "/previous-conference"
     },
     {
       "title": "Guidelines",
